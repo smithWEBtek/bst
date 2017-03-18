@@ -1,2 +1,0 @@
-# bst
-bradsmithtrio site
